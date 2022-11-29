@@ -1,2 +1,2 @@
 # pruebap
-autor: Carmenb
+autor: Carmenb y pablo t
